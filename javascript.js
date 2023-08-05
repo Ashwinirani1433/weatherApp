@@ -8,7 +8,7 @@ searchBtn.addEventListener("click", () => {
     inputCityName.value = "";
 })
 
-
+//git
 let error = document.querySelector(".error-message");
 async function getWeatherDetails(apiKey, cityName) {
     try{
